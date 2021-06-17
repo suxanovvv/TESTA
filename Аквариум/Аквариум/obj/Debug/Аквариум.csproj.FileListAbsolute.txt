@@ -1,0 +1,10 @@
+C:\Users\пк\source\repos\Аквариум\Аквариум\bin\Debug\Аквариум.exe.config
+C:\Users\пк\source\repos\Аквариум\Аквариум\bin\Debug\Аквариум.exe
+C:\Users\пк\source\repos\Аквариум\Аквариум\bin\Debug\Аквариум.pdb
+C:\Users\пк\source\repos\Аквариум\Аквариум\obj\Debug\Аквариум.csprojAssemblyReference.cache
+C:\Users\пк\source\repos\Аквариум\Аквариум\obj\Debug\Аквариум.Form1.resources
+C:\Users\пк\source\repos\Аквариум\Аквариум\obj\Debug\Аквариум.Properties.Resources.resources
+C:\Users\пк\source\repos\Аквариум\Аквариум\obj\Debug\Аквариум.csproj.GenerateResource.cache
+C:\Users\пк\source\repos\Аквариум\Аквариум\obj\Debug\Аквариум.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Аквариум\Аквариум\obj\Debug\Аквариум.exe
+C:\Users\пк\source\repos\Аквариум\Аквариум\obj\Debug\Аквариум.pdb
